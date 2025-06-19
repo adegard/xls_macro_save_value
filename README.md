@@ -2,6 +2,9 @@
 
 This personal Excel macro provides a simple way to **export selected cell values** to a CSV file and **import them later** into the same or a different workbook. It's a lightweight tool to **transfer settings or key values** between Excel workbooks—especially useful for dashboards, configuration sheets, and recurring reports.
 
+![Screenshot](Immagine 2025-06-19 141159.jpg?raw=true "Screenshot")
+
+
 ## ✨ Features
 
 - Save any list of cell values to a `.csv` file via a custom user form  
@@ -37,7 +40,7 @@ To display it later, you can assign a macro to a shortcut or button that runs (n
 UserForm1.Show
 ```
 ## Sample Default Cell List
+Please update in the code defaults values:
 
-C2, D5, D6, D7, D8, D10, D11, G5, G6, G7, G9,
-D10, D11, D13, D14, D15, D16, D17, D20, D21, D22,
-D23, D24, L3, L4, L5, L6, L7, L8, L20
+![Screenshot](Immagine 2025-06-19 141138.jpg?raw=true "Screenshot")
+
