@@ -2,7 +2,8 @@
 
 This personal Excel macro provides a simple way to **export selected cell values** to a CSV file and **import them later** into the same or a different workbook. It's a lightweight tool to **transfer settings or key values** between Excel workbooks—especially useful for dashboards, configuration sheets, and recurring reports.
 
-![Screenshot](Immagine 2025-06-19 141159.jpg?raw=true "Screenshot")
+</br>
+<img src="https://github.com/adegard/xls_macro_save_value/blob/main/Immagine 2025-06-19 141159.jpg"  align="center">
 
 
 ## ✨ Features
@@ -42,5 +43,6 @@ UserForm1.Show
 ## Sample Default Cell List
 Please update in the code defaults values:
 
-![Screenshot](Immagine 2025-06-19 141138.jpg?raw=true "Screenshot")
+</br>
+<img src="https://github.com/adegard/xls_macro_save_value/blob/main/Immagine 2025-06-19 141138.jpg"  align="center">
 
