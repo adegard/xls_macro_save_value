@@ -44,7 +44,7 @@ Click on "Macros" then "Options" button, as shown below:
 
 
 ## Sample Default Cell List
-Please update in the code defaults values:
+Please update in the code for defaults values:
 
 </br>
 <img src="https://github.com/adegard/xls_macro_save_value/blob/main/Immagine 2025-06-19 141138.jpg"  align="center">
