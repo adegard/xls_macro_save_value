@@ -38,7 +38,7 @@ Sub ShowSaveRestoreForm()
 End Sub
 ```
 
-Click on "Macros" then "modify", as shown below:
+Click on "Macros" then "Options" button, as shown below:
 </br>
 <img src="https://github.com/adegard/xls_macro_save_value/blob/main/Immagine 2025-06-19 142403.jpg"  align="center">
 
