@@ -28,18 +28,10 @@ To add this feature to your **Personal Macro Workbook**, follow these steps:
 
 1. Open Excel and press `Alt + F11` to open the VBA editor.
 2. In the **Project Explorer**, locate `PERSONAL.XLSB` or create a new module inside it.
-3. Insert a new **UserForm** and add the following elements:
-    - `Label1` – for instructions
-    - `TextBox1` – to enter cell addresses
-    - `btnSave` – Save button
-    - `btnRestore` – Restore button
-4. Paste the provided VBA code into the UserForm’s code window.
-5. Press `F5` to test the UserForm.
+3. Import the userform and other 2 files of this repository.
 
-To display it later, you can assign a macro to a shortcut or button that runs (now it is Ctrl+Shift+S):
-```vba
-UserForm1.Show
-```
+To display it later, you can assign a shortcut or button that runs (Mine is "Ctrl + Shift + S")
+
 ## Sample Default Cell List
 Please update in the code defaults values:
 
