@@ -32,6 +32,12 @@ To add this feature to your **Personal Macro Workbook**, follow these steps:
 
 To display it later, you can assign a shortcut or button that runs (Mine is "Ctrl + Shift + S")
 
+```
+Sub ShowSaveRestoreForm()
+    SaveRestoreForm.Show
+End Sub
+```
+
 ## Sample Default Cell List
 Please update in the code defaults values:
 
